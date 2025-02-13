@@ -19,3 +19,9 @@ Problem Statement:Given a 6 x 6 2D array,arr, an hourglass is a subset of values
 
 Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all zero-indexed. Declare an integer,last Answer, and initialize it to 0
 
+
+📌 Day 5: Left Rotation
+
+Problem Statement:
+Given an array of integers and a number, d, perform d left rotations on the array. Once all the rotations have been performed, return the updated array.
+
