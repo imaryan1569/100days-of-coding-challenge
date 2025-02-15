@@ -25,3 +25,8 @@ Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all z
 Problem Statement:
 Given an array of integers and a number, d, perform d left rotations on the array. Once all the rotations have been performed, return the updated array.
 
+
+📌 Day 6: String Similarity
+
+Problem Statement: Given a string s, the task is to find the sum of the lengths of all its suffixes that start with the same character as the original string and match some prefix of the string s. The goal is to compute how similar the suffixes are to the prefix of the string.
+
