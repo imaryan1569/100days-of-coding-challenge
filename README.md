@@ -30,3 +30,8 @@ Given an array of integers and a number, d, perform d left rotations on the arra
 
 Problem Statement: Given a string s, the task is to find the sum of the lengths of all its suffixes that start with the same character as the original string and match some prefix of the string s. The goal is to compute how similar the suffixes are to the prefix of the string.
 
+
+📌 Day 7: Digital Frequency
+
+Problem Statement: Given a string containing only digits, determine the frequency of each digit (0 through 9) in the string and print them in order from 0 to 9. Each frequency should be printed on a new line, corresponding to the digit's occurrence count in the string.
+
