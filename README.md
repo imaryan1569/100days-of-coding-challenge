@@ -19,18 +19,6 @@ Problem Statement:Given a 6 x 6 2D array,arr, an hourglass is a subset of values
 
 Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all zero-indexed. Declare an integer,last Answer, and initialize it to 0
 
-📌 Day 10: Permuting Two Arrays
-
-Problem Statement:
-Given two arrays of integers, A and B, and a number k, determine if there exists a permutation of the arrays such that for every index i, the sum of A[i] + B[i] is greater than or equal to k.
-
-
-
-
-
-
-
-
 
 
 📌 Day 5: Left Rotation
@@ -56,10 +44,20 @@ Problem Statement: Given a string containing only digits, determine the frequenc
 Given the first few terms of a sequence, determine the Nth term in that sequence. The sequence follows a specific rule or formula that can be deduced from the provided terms. The task is to find and return the Nth term using that rule.
 
 
-
-
 📌 Day 9: Power Calculation
 
 Problem Statement:
 Write a recursive function to calculate the result of raising a number x to the power n .
+
+
+📌 Day 10: Permuting Two Arrays
+
+Problem Statement:
+Given two arrays of integers, A and B, and a number k, determine if there exists a permutation of the arrays such that for every index i, the sum of A[i] + B[i] is greater than or equal to k.
+
+
+📌 Day 11: Array Reversal
+
+Problem Statement:
+Given an array of integers, reverse the elements of the array and return the reversed array.
 
