@@ -19,8 +19,6 @@ Problem Statement:Given a 6 x 6 2D array,arr, an hourglass is a subset of values
 
 Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all zero-indexed. Declare an integer,last Answer, and initialize it to 0
 
-
-
 📌 Day 5: Left Rotation
 
 Problem Statement:
@@ -60,4 +58,10 @@ Given two arrays of integers, A and B, and a number k, determine if there exists
 
 Problem Statement:
 Given an array of integers, reverse the elements of the array and return the reversed array.
+
+
+📌 Day 11: Students Marks Sum
+
+Problem Statement:
+Given an array of student marks, calculate and return the sum of all the marks in the array.
 
