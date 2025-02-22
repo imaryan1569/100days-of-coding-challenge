@@ -70,3 +70,8 @@ Given an array of student marks, calculate and return the sum of all the marks i
 Problem Statement:
 Given two integers, perform the following bitwise operations: AND, OR, and XOR. Return the results of each operation.
 
+📌 Day 14: Array Manipulation
+
+Problem Statement:
+You are given an array of size n initialized to zeros and a list of operations. Each operation contains three integers: a, b, and k. For each operation, add the value k to all elements of the array between indices a and b (inclusive). Return the maximum value in the array after performing all the operations.
+
