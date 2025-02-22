@@ -75,3 +75,8 @@ Given two integers, perform the following bitwise operations: AND, OR, and XOR. 
 Problem Statement:
 You are given an array of size n initialized to zeros and a list of operations. Each operation contains three integers: a, b, and k. For each operation, add the value k to all elements of the array between indices a and b (inclusive). Return the maximum value in the array after performing all the operations.
 
+📌 Day 15: Mini-Max Sum
+
+Problem Statement:
+Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then, print the respective minimum and maximum sums.
+
