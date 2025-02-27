@@ -83,3 +83,11 @@ Given five positive integers, find the minimum and maximum values that can be ca
 
 Problem Statement:
 Given a time in 12-hour AM/PM format, convert it to 24-hour military time format. The input is in the format hh:mm:ssAM or hh:mm:ssPM, and the output should be in the format HH:mm:ss.
+
+📌 Day 17: Grading Students
+
+Problem Statement:
+Given the grades of students, round each student's grade according to the following rules:
+
+If the difference between the grade and the next multiple of 5 is less than 3, round the grade up to the next multiple of 5.
+If the grade is less than 38, no rounding occurs (the grade remains the same).
