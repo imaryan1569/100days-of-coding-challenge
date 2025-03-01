@@ -95,3 +95,7 @@ If the grade is less than 38, no rounding occurs (the grade remains the same).
 Problem Statement:
 The primary diagonal is formed by the elements from the top-left to the bottom-right.
 The secondary diagonal is formed by the elements from the top-right to the bottom-left.
+
+📌 Day 19: Plus Minus
+Problem Statement:
+Given an array of integers, calculate the fractions of its elements that are positive, negative, and zeros. Print the decimal value of each fraction to 6 decimal places.
