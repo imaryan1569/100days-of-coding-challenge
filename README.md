@@ -105,3 +105,8 @@ Given an array of integers, calculate the fractions of its elements that are pos
 
 Problem Statement:
 Given an integer n and a number k, create a new number by concatenating the integer n, k times. Then, find the recursive sum of its digits until a single digit is obtained. Return that single digit.
+
+📌 Day 21: Solve Me First
+
+Problem Statement:
+Given two integers, return their sum
