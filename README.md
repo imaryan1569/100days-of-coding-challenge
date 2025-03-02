@@ -99,3 +99,9 @@ The secondary diagonal is formed by the elements from the top-right to the botto
 📌 Day 19: Plus Minus
 Problem Statement:
 Given an array of integers, calculate the fractions of its elements that are positive, negative, and zeros. Print the decimal value of each fraction to 6 decimal places.
+
+
+📌 Day 20: Recursive Digit Sum
+
+Problem Statement:
+Given an integer n and a number k, create a new number by concatenating the integer n, k times. Then, find the recursive sum of its digits until a single digit is obtained. Return that single digit.
