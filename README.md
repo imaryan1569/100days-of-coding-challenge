@@ -110,3 +110,12 @@ Given an integer n and a number k, create a new number by concatenating the inte
 
 Problem Statement:
 Given two integers, return their sum
+
+📌 Day 22: Cats and a Mouse
+
+Problem Statement:
+You are given the positions of two cats and a mouse on a line. Your task is to determine which cat will reach the mouse first. If both cats reach the mouse at the same time, the mouse will escape.
+
+If Cat A catches the mouse first, return "Cat A".
+If Cat B catches the mouse first, return "Cat B".
+If both cats reach the mouse at the same time, return "Mouse C".
