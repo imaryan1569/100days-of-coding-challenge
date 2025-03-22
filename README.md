@@ -144,4 +144,12 @@ Problem Statement: A person wants to buy games, where each game costs an initial
 Day 30: Extra Long Factorials
 Problem Statement: Given an integer n, compute its factorial. Since the result may be very large, return the factorial as a big integer.
 
+📌 Day 31: Maximum Element
+
+Problem Statement:You have an empty sequence, and you will be given N queries
+
+📌 Day 32: Simple Text Editor
+
+Problem Statement: Implement a simple text editor. The editor initially contains an empty string, S.
+
 
